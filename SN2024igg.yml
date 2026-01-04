@@ -2,13 +2,13 @@
 tardis_config_version: v1.0
 
 supernova:
-  luminosity_requested: 8.2 log_lsun
-  time_explosion: 3.5 day
+  luminosity_requested: 8.6 log_lsun
+  time_explosion: 4.5 day
 
 
 atom_data: kurucz_cd23_chianti_H_He_latest.h5
 
-csvy_model: test_density.csvy
+csvy_model: test_density_0.csvy
 
 plasma:
   disable_electron_scattering: no
